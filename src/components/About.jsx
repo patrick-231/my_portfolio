@@ -15,7 +15,6 @@ const About = () => {
           <div className="sm:text-right text-4xl font-bold mb-12">
             <p>
               Welcome to my portfolio website! I'm thrilled to have you here.
-              Please take a look around.
             </p>
           </div>
           <div>
@@ -28,28 +27,35 @@ const About = () => {
               <div className="absolute inset-0 flex items-center justify-center bg-black bg-opacity-50"></div>
             </div> */}
             <p>
-              I am a passionate and dedicated full stack web developer with
-              expertise in building dynamic and responsive web applications.
-              With a strong foundation in front-end development, back-end
-              programming, and database management, I specialize in creating
-              robust and user-friendly software solutions.
+              As a recent full stack web development graduate, I am eager to
+              leverage my skills and knowledge to contribute to your
+              organization's web initiatives. While I may lack extensive
+              professional experience, I am a fast learner, highly adaptable,
+              and driven to continuously expand my expertise.
             </p>
             <br />
             <p>
-              My approach to development is both creative and practical. I
-              combine my technical expertise with a keen eye for design to
-              create visually appealing and intuitive user interfaces. I believe
-              that a seamless user experience is crucial in capturing and
-              retaining users' attention, and I strive to achieve that in every
-              application I build.
+              During my training, I gained a robust foundation in front-end,
+              back-end, and database management, becoming proficient in
+              cutting-edge technologies like HTML, CSS, JavaScript, React,
+              Node.js, and SQL. What sets me apart is my commitment to
+              delivering high-quality, user-centric solutions, combining
+              technical prowess with a keen eye for design to create intuitive,
+              visually appealing, and engaging web experiences.
             </p>
             <br />
             <p>
-              Thank you for visiting my portfolio website. I invite you to
-              explore my projects and get in touch if you have any questions or
-              would like to discuss a potential collaboration. Together, let's
-              bring your ideas to life and create exceptional web experiences
-              that make a lasting impact.
+              Furthermore, I am eager to learn and grow alongside experienced
+              professionals, staying up-to-date with industry trends and quickly
+              adapting to new methodologies. I am confident that my enthusiasm,
+              adaptability, and strong foundation in full stack development will
+              make me a valuable asset to your team.
+            </p>
+            <br />
+            <p>
+              I welcome the opportunity to discuss how I can contribute to your
+              organization's web development goals. Thank you for your
+              consideration.
             </p>
           </div>
         </div>
