@@ -1,6 +1,7 @@
 import Realestate from "../assets/realestate.jpg";
 import Stylish from "../assets/Stylish_Stiches_DEMO.png";
 import Whisper from "../assets/Whisper-chat-app-DEMO.png";
+import InProgress from "../assets/Work_In_Progress.png";
 
 const Portfolio = () => {
   return (
@@ -72,7 +73,7 @@ const Portfolio = () => {
             </div>
           </div>
           <div
-            style={{ backgroundImage: `url(${Realestate})` }}
+            style={{ backgroundImage: `url(${InProgress})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auton content-div"
           >
             {/* hover effect */}

@@ -7,7 +7,7 @@ const About = () => {
         <div className="max-w-[1000px] w-full  grid grid-cols-2 gap-8">
           <div className="sm:text-right pb-8 pl-4">
             <p className="text-4xl font-bold inline border-b-4 border-pink-600">
-              About
+              About me
             </p>
           </div>
         </div>
@@ -38,10 +38,16 @@ const About = () => {
               During my training, I gained a robust foundation in front-end,
               back-end, and database management, becoming proficient in
               cutting-edge technologies like HTML, CSS, JavaScript, React,
-              Node.js, and SQL. What sets me apart is my commitment to
-              delivering high-quality, user-centric solutions, combining
-              technical prowess with a keen eye for design to create intuitive,
-              visually appealing, and engaging web experiences.
+              Node.js, and SQL. Additionally, I have hands-on experience with
+              MongoDB, Express.js, and version control systems like Git. I am
+              also currently learning AWS, Python, and Linux, which are
+              enhancing my capabilities in cloud computing and scripting.
+            </p>
+            <p>
+              What sets me apart is my commitment to delivering high-quality,
+              user-centric solutions, combining technical prowess with a keen
+              eye for design to create intuitive, visually appealing, and
+              engaging web experiences.
             </p>
             <br />
             <p>
