@@ -2,6 +2,7 @@ import Realestate from "../assets/realestate.jpg";
 import Stylish from "../assets/Stylish_Stiches_DEMO.png";
 import Whisper from "../assets/Whisper-chat-app-DEMO.png";
 import InProgress from "../assets/Work_In_Progress.png";
+import reStart from "../assets/Patrick re_Start Project Work.png";
 
 const Portfolio = () => {
   return (
@@ -67,6 +68,27 @@ const Portfolio = () => {
                 >
                   <button className="text-center roundec-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div
+            style={{ backgroundImage: `url(${reStart})` }}
+            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auton content-div"
+          >
+            {/* hover effect */}
+            <div className="opacity-0 group-hover:opacity-100">
+              <span className="text-2xl font-bold text-white tracking-wider">
+                Launch an EC2 instance on AWS
+              </span>
+              <div className="pt-8 text-center">
+                <a
+                  href="https://res.cloudinary.com/dpx184ojl/image/upload/v1724410582/Patrick_re_Start_Project_Work_yyond2.png"
+                  target="_blank"
+                >
+                  <button className="text-center roundec-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                    View
                   </button>
                 </a>
               </div>
