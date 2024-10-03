@@ -1,4 +1,3 @@
-import Realestate from "../assets/realestate.jpg";
 import Stylish from "../assets/Stylish_Stiches_DEMO.png";
 import Whisper from "../assets/Whisper-chat-app-DEMO.png";
 import InProgress from "../assets/Work_In_Progress.png";
@@ -27,7 +26,7 @@ const Portfolio = () => {
             {/* hover effect */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                MERN Stack: E-Commerce Application TailwindCSS, Material UI
+                MERN Stack: E-Commerce Application
               </span>
               <div className="pt-8 text-center">
                 <a href="https://stylishstiches.netlify.app/" target="_blank">
@@ -44,6 +43,12 @@ const Portfolio = () => {
                   </button>
                 </a>
               </div>
+              <div className="mt-4 text-left">
+                <p>
+                  Technologies used: TailwindCSS, Material UI, MERN Stack
+                  (MongoDB, Express, React, Node.js)
+                </p>
+              </div>
             </div>
           </div>
 
@@ -54,7 +59,7 @@ const Portfolio = () => {
             {/* hover effect */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                MERN Stack: Real Time Chat App Socket.io, TailwindCSS, Daisy UI
+                MERN Stack: Real Time Chat App
               </span>
               <div className="pt-8 text-center">
                 <a href="https://whisper-chat-app.onrender.com" target="_blank">
@@ -70,6 +75,12 @@ const Portfolio = () => {
                     Code
                   </button>
                 </a>
+              </div>
+              <div className="mt-4 text-left">
+                <p>
+                  Technologies used: Socket.io, TailwindCSS, Daisy UI, MERN
+                  Stack (MongoDB, Express, React, Node.js)
+                </p>
               </div>
             </div>
           </div>
@@ -91,6 +102,9 @@ const Portfolio = () => {
                     View
                   </button>
                 </a>
+              </div>
+              <div className="mt-4 text-left">
+                <p>Technologies used: AWS, EC2</p>
               </div>
             </div>
           </div>
@@ -114,6 +128,9 @@ const Portfolio = () => {
                     Code
                   </button>
                 </a>
+              </div>
+              <div className="mt-4 text-left">
+                <p>Technologies used: React JS</p>
               </div>
             </div>
           </div>
