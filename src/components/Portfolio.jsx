@@ -2,6 +2,7 @@ import Stylish from "../assets/Stylish_Stiches_DEMO.png";
 import Whisper from "../assets/Whisper-chat-app-DEMO.png";
 import InProgress from "../assets/Work_In_Progress.png";
 import reStart from "../assets/Patrick re_Start Project Work.png";
+import Admindashboard from "../assets/amindashboard.png";
 
 const Portfolio = () => {
   return (
@@ -19,6 +20,41 @@ const Portfolio = () => {
         {/* container */}
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
           {/* grid item */}
+          <div
+            style={{ backgroundImage: `url(${Admindashboard})` }}
+            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auton content-div"
+          >
+            {/* hover effect */}
+            <div className="opacity-0 group-hover:opacity-100">
+              <span className="text-2xl font-bold text-white tracking-wider">
+                Dashboard UI: Admin Dashboard
+              </span>
+              <div className="pt-8 text-center">
+                <a
+                  href="https://myadnindashboard231.netlify.app/"
+                  target="_blank"
+                >
+                  <button className="text-center roundec-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                    Demo
+                  </button>
+                </a>
+                <a
+                  href="https://github.com/patrick-231/admin-dashboard"
+                  target="_blank"
+                >
+                  <button className="text-center roundec-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                    Code
+                  </button>
+                </a>
+              </div>
+              <div className="mt-4 text-left">
+                <p>
+                  Technologies used: React, TailwindCSS, Rechart, & Framer
+                  Motion
+                </p>
+              </div>
+            </div>
+          </div>
           <div
             style={{ backgroundImage: `url(${Stylish})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auton content-div"
