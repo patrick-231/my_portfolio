@@ -28,9 +28,9 @@ const Portfolio = () => {
           >
             {/* hover effect */}
             <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold text-white tracking-wider">
+              <h6 className="text-2xl font-bold text-white px-2 ml-4  ">
                 Dashboard UI: Admin Dashboard
-              </span>
+              </h6>
               <div className="pt-8 text-center">
                 <a
                   href="https://myadnindashboard231.netlify.app/"
@@ -50,7 +50,7 @@ const Portfolio = () => {
                 </a>
               </div>
               <div className="mt-4 text-left">
-                <p>
+                <p className="ml-4">
                   Technologies used: JavaScript (ES6+), React, TailwindCSS,
                   React Router, Rechart, & Framer Motion
                 </p>
@@ -63,9 +63,9 @@ const Portfolio = () => {
           >
             {/* hover effect */}
             <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold text-white tracking-wider">
+              <h6 className="text-2xl font-bold text-white px-2 ml-4  ">
                 MERN Stack: E-Commerce Application
-              </span>
+              </h6>
               <div className="pt-8 text-center">
                 <a href="https://stylishstiches.netlify.app/" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
@@ -82,7 +82,7 @@ const Portfolio = () => {
                 </a>
               </div>
               <div className="mt-4 text-left">
-                <p>
+                <p className="ml-4">
                   Technologies used: JavaScript (ES6+), TailwindCSS, Material
                   UI, MongoDB, Express, React, Node.js
                 </p>
@@ -96,9 +96,9 @@ const Portfolio = () => {
           >
             {/* hover effect */}
             <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold text-white tracking-wider">
+              <h6 className="text-2xl font-bold text-white px-2 ml-4  ">
                 MERN Stack: Real Time Chat App
-              </span>
+              </h6>
               <div className="pt-8 text-center">
                 <a href="https://whisper-chat-app.onrender.com" target="_blank">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
@@ -115,7 +115,7 @@ const Portfolio = () => {
                 </a>
               </div>
               <div className="mt-4 text-left">
-                <p>
+                <p className="ml-4">
                   Technologies used: JavaScript (ES6+), Socket.io, TailwindCSS,
                   Daisy UI, MongoDB, Express, React, Node.js
                 </p>
@@ -127,10 +127,10 @@ const Portfolio = () => {
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auton content-div"
           >
             {/* hover effect */}
-            <div className="opacity-0 group-hover:opacity-100">
-              <span className="text-2xl font-bold text-white tracking-wider">
+            <div className="opacity-0 group-hover:opacity-100 ">
+              <h6 className="text-2xl font-bold text-white px-2 ml-4  ">
                 Launch an EC2 instance on AWS
-              </span>
+              </h6>
               <div className="pt-8 text-center">
                 <a
                   href="https://res.cloudinary.com/dpx184ojl/image/upload/v1724410582/Patrick_re_Start_Project_Work_yyond2.png"
@@ -142,7 +142,7 @@ const Portfolio = () => {
                 </a>
               </div>
               <div className="mt-4 text-left">
-                <p>
+                <p className="ml-4">
                   Technologies used: AWS CLI, EC2, S3, Appache httpd Web Server,
                   Security Groups
                 </p>
