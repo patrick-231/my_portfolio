@@ -4,6 +4,8 @@ import InProgress from "../assets/Work_In_Progress.png";
 import reStart from "../assets/Patrick re_Start Project Work.png";
 import Admindashboard from "../assets/amindashboard.png";
 
+import Button from "@mui/material/Button";
+
 const Portfolio = () => {
   return (
     <div
@@ -34,7 +36,7 @@ const Portfolio = () => {
                   href="https://myadnindashboard231.netlify.app/"
                   target="_blank"
                 >
-                  <button className="text-center roundec-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
@@ -42,7 +44,7 @@ const Portfolio = () => {
                   href="https://github.com/patrick-231/admin-dashboard"
                   target="_blank"
                 >
-                  <button className="text-center roundec-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
                 </a>
@@ -66,7 +68,7 @@ const Portfolio = () => {
               </span>
               <div className="pt-8 text-center">
                 <a href="https://stylishstiches.netlify.app/" target="_blank">
-                  <button className="text-center roundec-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
@@ -74,7 +76,7 @@ const Portfolio = () => {
                   href="https://github.com/patrick-231?tab=repositories"
                   target="_blank"
                 >
-                  <button className="text-center roundec-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
                 </a>
@@ -99,7 +101,7 @@ const Portfolio = () => {
               </span>
               <div className="pt-8 text-center">
                 <a href="https://whisper-chat-app.onrender.com" target="_blank">
-                  <button className="text-center roundec-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
@@ -107,7 +109,7 @@ const Portfolio = () => {
                   href="https://github.com/patrick-231/whisper-chat-app"
                   target="_blank"
                 >
-                  <button className="text-center roundec-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
                 </a>
@@ -134,7 +136,7 @@ const Portfolio = () => {
                   href="https://res.cloudinary.com/dpx184ojl/image/upload/v1724410582/Patrick_re_Start_Project_Work_yyond2.png"
                   target="_blank"
                 >
-                  <button className="text-center roundec-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     View
                   </button>
                 </a>
@@ -158,12 +160,12 @@ const Portfolio = () => {
               </span>
               <div className="pt-8 text-center">
                 <a href="/">
-                  <button className="text-center roundec-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Demo
                   </button>
                 </a>
                 <a href="/">
-                  <button className="text-center roundec-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                  <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Code
                   </button>
                 </a>
