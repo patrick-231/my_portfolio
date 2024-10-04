@@ -49,8 +49,8 @@ const Portfolio = () => {
               </div>
               <div className="mt-4 text-left">
                 <p>
-                  Technologies used: React, TailwindCSS, Rechart, & Framer
-                  Motion
+                  Technologies used: JavaScript (ES6+), React, TailwindCSS,
+                  React Router, Rechart, & Framer Motion
                 </p>
               </div>
             </div>
@@ -81,8 +81,8 @@ const Portfolio = () => {
               </div>
               <div className="mt-4 text-left">
                 <p>
-                  Technologies used: TailwindCSS, Material UI, MERN Stack
-                  (MongoDB, Express, React, Node.js)
+                  Technologies used: JavaScript (ES6+), TailwindCSS, Material
+                  UI, MongoDB, Express, React, Node.js
                 </p>
               </div>
             </div>
@@ -114,8 +114,8 @@ const Portfolio = () => {
               </div>
               <div className="mt-4 text-left">
                 <p>
-                  Technologies used: Socket.io, TailwindCSS, Daisy UI, MERN
-                  Stack (MongoDB, Express, React, Node.js)
+                  Technologies used: JavaScript (ES6+), Socket.io, TailwindCSS,
+                  Daisy UI, MongoDB, Express, React, Node.js
                 </p>
               </div>
             </div>
@@ -140,7 +140,10 @@ const Portfolio = () => {
                 </a>
               </div>
               <div className="mt-4 text-left">
-                <p>Technologies used: AWS, EC2</p>
+                <p>
+                  Technologies used: AWS CLI, EC2, S3, Appache httpd Web Server,
+                  Security Groups
+                </p>
               </div>
             </div>
           </div>
@@ -151,7 +154,7 @@ const Portfolio = () => {
             {/* hover effect */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                React JS Application
+                UNDER CONSTRUCTION
               </span>
               <div className="pt-8 text-center">
                 <a href="/">
@@ -166,7 +169,7 @@ const Portfolio = () => {
                 </a>
               </div>
               <div className="mt-4 text-left">
-                <p>Technologies used: React JS</p>
+                {/* <p>Technologies used: React JS</p> */}
               </div>
             </div>
           </div>
