@@ -64,7 +64,7 @@ const Portfolio = () => {
             {/* hover effect */}
             <div className="opacity-0 group-hover:opacity-100">
               <h6 className="text-2xl font-bold text-white px-2 ml-4  ">
-                MERN Stack: E-Commerce Application
+                MERN Stack:E-Commerce App
               </h6>
               <div className="pt-8 text-center">
                 <a href="https://stylishstiches.netlify.app/" target="_blank">
@@ -83,8 +83,8 @@ const Portfolio = () => {
               </div>
               <div className="mt-4 text-left">
                 <p className="ml-4">
-                  Technologies: JavaScript (ES6+), TailwindCSS, Material UI,
-                  MongoDB, Express, React, Node.js
+                  Technologies:JavaScript, TailwindCSS, Material UI, MongoDB,
+                  Express, React, Node.js
                 </p>
               </div>
             </div>
