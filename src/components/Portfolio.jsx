@@ -51,7 +51,7 @@ const Portfolio = () => {
               </div>
               <div className="mt-4 text-left">
                 <p className="ml-4">
-                  Technologies used: JavaScript (ES6+), React, TailwindCSS,
+                  Technologies: Docker,JavaScript (ES6+), React, TailwindCSS,
                   React Router, Rechart, & Framer Motion
                 </p>
               </div>
@@ -83,8 +83,8 @@ const Portfolio = () => {
               </div>
               <div className="mt-4 text-left">
                 <p className="ml-4">
-                  Technologies used: JavaScript (ES6+), TailwindCSS, Material
-                  UI, MongoDB, Express, React, Node.js
+                  Technologies: JavaScript (ES6+), TailwindCSS, Material UI,
+                  MongoDB, Express, React, Node.js
                 </p>
               </div>
             </div>
@@ -116,8 +116,8 @@ const Portfolio = () => {
               </div>
               <div className="mt-4 text-left">
                 <p className="ml-4">
-                  Technologies used: JavaScript (ES6+), Socket.io, TailwindCSS,
-                  Daisy UI, MongoDB, Express, React, Node.js
+                  Technologies: JavaScript (ES6+), Socket.io, TailwindCSS, Daisy
+                  UI, MongoDB, Express, React, Node.js
                 </p>
               </div>
             </div>
@@ -143,7 +143,7 @@ const Portfolio = () => {
               </div>
               <div className="mt-4 text-left">
                 <p className="ml-4">
-                  Technologies used: AWS CLI, EC2, S3, Appache httpd Web Server,
+                  Technologies: AWS CLI, EC2, S3, Appache httpd Web Server,
                   Security Groups
                 </p>
               </div>
